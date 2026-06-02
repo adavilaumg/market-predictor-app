@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "44775823871",
+    "project_id": "market-prediction-umg",
+    "storage_bucket": "market-prediction-umg.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44775823871:android:c42c76b438944c53dbafca",
+        "android_client_info": {
+          "package_name": "com.example.marketpredictionapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYbLDKXbVT2Xhd0J-7fWoREu3bDPzHblU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
